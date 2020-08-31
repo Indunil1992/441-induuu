@@ -57,8 +57,8 @@
       {
         "lambdaId": "all",
         "varKey": "varKey2off",
-        "varValue": null,
-        "shouldPersist": false,
+        "varValue": "33333333333",
+        "shouldPersist": true,
         "displayOnly": false,
         "editable": true
       }
